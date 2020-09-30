@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-tok-86811": {
+      "hosting": {
+        "app": [
+          "test-tok-86811"
+        ]
+      }
+    }
+  }
+}
