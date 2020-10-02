@@ -1,7 +1,5 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-F
-
 
 import { BuyPage } from './buy.page';
 
